@@ -1,0 +1,10 @@
+Cybercrime Case Study: Social Media Identity Theft
+
+1. The Incident:
+In this case, a college student named "Aman" discovered that a fake Instagram profile had been created using his full name, private photos, and even his university details. The imposter account began messaging Aman's classmates and faculty members, asking for urgent financial help via UPI, claiming Aman was in a medical emergency.
+
+2. The Method (How it happened):
+The attacker used a technique called "Social Engineering." Because Aman's real profile was set to 'Public,' the hacker easily downloaded his photos and gathered personal information from his bio (like his branch and college name). By mimicking his typing style and using real names of his friends found in his 'Followers' list, the hacker made the fake profile look highly believable.
+
+3. Prevention and Solution:
+To prevent this, users should set their social media profiles to 'Private' and be selective about who they accept as followers. It is crucial to never share sensitive details like seat numbers, home addresses, or phone numbers in public bios. If an identity theft occurs, the victim should immediately report the account to the platform, alert their contact list, and file a complaint at the National Cyber Crime Reporting Portal (www.cybercrime.gov.in).
