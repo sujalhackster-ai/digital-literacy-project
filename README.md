@@ -9,6 +9,7 @@ This portfolio showcases my practical application of digital tools, professional
 
 This repository is organized into specific tasks, demonstrating various aspects of digital literacy:
 
+* **`task-1-presentation/`**: A digital presentation introducing the core concepts of digital literacy and online safety.
 * **`task-2-portfolio/`**: Evidence of my optimized professional profiles, demonstrating personal branding for tech roles.
 * **`task-3-platforms/`**: A fully functional Google Forms quiz designed to test peer knowledge on digital safety.
 * **`task-4-email-etiquette/`**: Templates for professional academic and corporate communication, plus a Social Media Do's and Don'ts checklist.
