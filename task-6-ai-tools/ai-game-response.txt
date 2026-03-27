@@ -1,0 +1,29 @@
+🎮 Game Title: The Digital Fortress: Freshman Year
+The Concept
+A 2D point-and-click narrative adventure where you play as a first-year student navigating their first week at university. Instead of fighting monsters, your "HP" is your Digital Reputation and your "Armor" is your Cyber Hygiene.
+
+Core Gameplay Mechanics
+The Phishing Inbox (Mini-Game):
+
+Action: You receive 5 emails in your university inbox. You must drag "Safe" emails to your study folder and "Report" suspicious ones to the IT desk.
+
+The Twist: One email looks like a "Free Canteen Coupon" but has a slightly misspelled URL (vltbhopal.ac.in instead of vitbhopal.ac.in).
+
+Learning: Teaches players to spot URL spoofing and phishing patterns.
+
+The Permission Gate:
+
+Action: To enter a campus party, you must first "audit" your Instagram profile. You are shown a mock profile and must click and "hide" 3 pieces of sensitive data (e.g., a photo of your room key, your phone number in the bio, or your location-tagged library desk).
+
+Learning: Emphasizes the importance of private profiles and data minimization.
+
+The 2FA Puzzle:
+
+Action: A fast-paced "Connect the Dots" game where you must sync a randomly generated 6-digit code from your phone screen to your laptop login before a 15-second timer runs out.
+
+Learning: Reinforces the habit of using Two-Factor Authentication for critical accounts.
+
+How it Teaches Safety
+Instant Feedback: If you click a phishing link, your screen "glitches" and shows a pop-up explaining exactly what red flag you missed.
+
+Reputation Score: Your final score isn't based on gold, but on your "Trust Level." High scores unlock a "Digital Ambassador" badge at the end of the game.
