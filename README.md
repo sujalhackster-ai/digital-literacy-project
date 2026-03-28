@@ -23,5 +23,7 @@ This repository is organized into specific tasks, demonstrating various aspects 
 * **Productivity:** Google Workspace (Forms, Sheets)
 * **Generative AI:** Large Language Models (for brainstorming and documentation)
 
+* * **`task-3-platforms/`**: A fully functional [Digital Literacy Awareness Quiz]([PASTE_YOUR_LINK_HERE](https://docs.google.com/forms/d/e/1FAIpQLScWNiT0rUukTQtzMaqGAiRaHe0K3OGljIHclwFjoJzn69t9yQ/viewform?usp=publish-editor)) designed in Google Forms to test peer knowledge on digital safety, complete with automated data collection via Google Sheets.
+
 ---
 *Created by Sujal Kumar | Student Digital Ambassador*
